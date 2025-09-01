@@ -14,7 +14,7 @@ applicationSet:
   replicas: 1
 
 global:
-  domain: 135.237.121.89
+  domain: python-app-ehh.eastus.cloudapp.azure.com
 
 certificate:
   enabled: true
