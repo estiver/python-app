@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: ehipolito/python-app:${{ github.sha }}
+          tags: ehipolito/python-app:${{ env.COMMIT_ID }}
