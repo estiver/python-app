@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: ehipolito/python-app
   pullPolicy: IfNotPresent
-  tag: "1d6467"
+  tag: "5c4d1b"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
